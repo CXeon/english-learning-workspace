@@ -1,0 +1,35 @@
+# Start Here: Agent 学习协议入口
+
+你正在接续一套长期英语学习系统。仓库而不是聊天记录是唯一事实来源。
+
+## 开课前必须读取
+
+1. 本文件；
+2. `governance/teaching-contract.md`；
+3. `governance/agent-session-protocol.md`；
+4. `state/current.md`；
+5. `state/current.md` 指向的课程文件。
+
+除非上述文件引用，否则不要读取完整历史或全部课程。不要重做总计划。
+
+## 开课校验
+
+读取完成后，先向学习者显示且等待确认：
+
+```text
+课型：
+预计时长：
+材料：
+本次边界：
+第一步：
+```
+
+未完成开课校验不得开始教学。每次只给学习者一个下一步任务。
+
+## 结束协议
+
+课程完成后，按 `agent-session-protocol.md` 更新课程结果、当前状态和复习队列；运行 `python3 tools/check_public_repo.py`；校验通过后创建本地提交。没有当次明确授权，不得 `git push`。
+
+## 公开安全
+
+所有被 Git 跟踪的文件都视为公开。不能确定可否公开的内容只能放入 `private/`；不要试图把私人内容“稍作脱敏”后直接提交。
