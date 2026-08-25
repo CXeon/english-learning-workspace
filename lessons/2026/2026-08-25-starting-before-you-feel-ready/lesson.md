@@ -3,7 +3,7 @@ id: 2026-08-25-starting-before-you-feel-ready
 date: 2026-08-25
 type: reading_then_listening
 status: listening_in_progress
-source_kind: original
+source_kind: ai_generated_original
 source_url: null
 public_release: approved_text_only
 copyright_status: original_learning_material
