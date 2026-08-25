@@ -7,8 +7,12 @@
 1. 本文件；
 2. `governance/teaching-contract.md`；
 3. `governance/agent-session-protocol.md`；
-4. `state/current.md`；
-5. `state/current.md` 指向的课程文件。
+4. `state/current.md`。
+
+然后根据 `next_session_mode` 决定下一步：
+
+- `resume`：读取 `lesson_path` 指向的已有课程文件，然后继续该课程。
+- `prepare`：读取 `material_brief`，先创建一份新的课程文件，再开始当天规定课型的学习任务。此时 `lesson_path` 可以为空，不得尝试读取不存在的文件。
 
 除非上述文件引用，否则不要读取完整历史或全部课程。不要重做总计划。
 

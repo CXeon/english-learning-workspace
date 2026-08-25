@@ -2,10 +2,12 @@
 updated: 2026-08-25
 phase: phase-2
 lesson_status: listening_in_progress
-current_lesson: lessons/2026/2026-08-25-starting-before-you-feel-ready/lesson.md
+next_session_mode: resume
+lesson_path: lessons/2026/2026-08-25-starting-before-you-feel-ready/lesson.md
 next_lesson_type: listening
 target_minutes: 15
 audio_status: pending_public_provenance_review
+material_brief: null
 ---
 
 # 当前学习状态
@@ -18,7 +20,7 @@ audio_status: pending_public_provenance_review
 
 ## 下一节课的唯一第一步
 
-先确认第 3 段音频已按公开内容政策审核且可播放；随后进行 10–15 秒盲听，不看文本，记录最清楚的词块。
+当前模式为 `resume`。先确认第 3 段音频已按公开内容政策审核且可播放；随后进行 10–15 秒盲听，不看文本，记录最清楚的词块。
 
 ## 本次边界
 

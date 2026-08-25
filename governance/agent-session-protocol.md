@@ -4,14 +4,18 @@
 
 1. 检查 `git status --short`；存在未提交改动时先报告，不覆盖。
 2. 按 `START_HERE.md` 读取最小上下文。
-3. 输出开课校验，等待学习者确认或回答。
-4. 不启用 `superpowers:*`、`grilling` 或其他与英语教学无关的技能；不创建其规格或计划文件。
+3. 检查 `state/current.md` 的 `next_session_mode`：
+   - `resume`：读取已有 `lesson_path`；
+   - `prepare`：按 `material_brief` 新建课程文件与其公开元数据，再开始本次课；不得读取不存在的路径。
+4. 输出开课校验，等待学习者确认或回答。
+5. 不启用 `superpowers:*`、`grilling` 或其他与英语教学无关的技能；不创建其规格或计划文件。
 
 ## 进行中
 
 - 不把阅读、听力、维护和技术排障混在同一节课。
 - 若音频未准备好，记录 blocker，改做协议允许的轻量回忆；不要临场生成或排障。
 - 不得从记忆伪造历史材料原文。
+- 新课只能在 `next_session_mode: prepare` 时创建；创建后要将当前状态切换为 `resume`，并写入实际 `lesson_path`。
 
 ## 结束
 
