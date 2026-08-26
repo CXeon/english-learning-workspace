@@ -24,4 +24,4 @@
 
 - 第 1 段盲听约 40%；已抓住主要名词和结构，需要补足 `wait until`、`before starting`、`enough time`、`the right amount of`。
 - 第 2 段已能抓到主干；文本匹配后可完整听出 `unfinished for days or even weeks`。注意弱读小词 `always`、`for`、`even`。
-- 第 3 段尚未完成盲听；需先准备经过公开审核的可播放音频。
+- 第 3 段尚未完成盲听；所需音频已于 2026-08-27 完成公开审核、迁移与播放验证，下一次可直接继续。

@@ -5,10 +5,10 @@ type: reading_then_listening
 status: listening_in_progress
 source_kind: ai_generated_original
 source_url: null
-public_release: approved_text_only
+public_release: approved
 copyright_status: original_learning_material
 contains_personal_voice: false
-audio_verified: false
+audio_verified: true
 ---
 
 # Starting Before You Feel Ready
@@ -37,4 +37,8 @@ Once you begin, the task often becomes clearer. You can see what information is 
 
 ## 音频状态
 
-此前生成的 MP3 来自第三方在线 TTS，公开再分发许可尚未完成审核，因此未迁入公开仓库。下一次听力课前需用通过公开审核的音频来源生成并验证第 3 段音频。
+三个分段 MP3 已迁入公开仓库并通过审核。它们由 OpenAI ChatGPT/Codex 应用内置合成语音工具生成，使用默认 AI 声音，不含真人、自定义或克隆声音；应用未展示实际音频模型。播放时须说明声音为 AI 生成。
+
+- 第 1 段：`assets/audio/2026-08-25-starting-before-you-feel-ready/chunk-1.mp3`（约 10.49 秒）
+- 第 2 段：`assets/audio/2026-08-25-starting-before-you-feel-ready/chunk-2.mp3`（约 10.85 秒）
+- 第 3 段：`assets/audio/2026-08-25-starting-before-you-feel-ready/chunk-3.mp3`（约 10.01 秒）

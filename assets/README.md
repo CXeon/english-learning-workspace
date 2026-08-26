@@ -24,6 +24,9 @@ audio_verified: false
 2. 单个二进制文件不得超过 5 MB；不要提交同一内容的多种格式副本。
 3. 在 [asset-manifest.md](asset-manifest.md) 记录文件路径、生成来源、真人声音状态和公开结论。
 4. 仅提交允许公开再分发的合成语音；不确定服务条款或来源时，放入被 Git 忽略的 `private/`。
+5. OpenAI ChatGPT/Codex 应用内置工具生成的默认合成语音，可将来源记为 `openai_chatgpt_codex_app_builtin_synthetic_speech`；若应用未展示具体音频模型，如实记录 `audio_model: not_exposed_by_app`，不得把负责课程编排的文本模型误记为音频模型。
+6. 面向学习者播放或公开展示时，明确说明该声音为 AI 生成，并在迁移后立即验证文件可解码且时长大于 0。
+7. 通过公开审核后，将课程原创文档和 AI 合成音频纳入提交并推送到远程仓库；这是学习者对该类资产的持续授权。
 
 提交前运行：
 

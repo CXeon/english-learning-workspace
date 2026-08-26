@@ -1,12 +1,12 @@
 ---
-updated: 2026-08-25
+updated: 2026-08-27
 phase: phase-2
 lesson_status: listening_in_progress
 next_session_mode: resume
 lesson_path: lessons/2026/2026-08-25-starting-before-you-feel-ready/lesson.md
 next_lesson_type: listening
 target_minutes: 15
-audio_status: pending_public_provenance_review
+audio_status: ready
 material_brief: null
 ---
 
@@ -20,13 +20,13 @@ material_brief: null
 
 ## 下一节课的唯一第一步
 
-当前模式为 `resume`。先确认第 3 段音频已按公开内容政策审核且可播放；随后进行 10–15 秒盲听，不看文本，记录最清楚的词块。
+当前模式为 `resume`。第 3 段音频已审核、迁移并验证可播放；直接进行约 10 秒盲听，不看文本，记录最清楚的词块。播放前说明声音为 AI 生成。
 
 ## 本次边界
 
 - 不新增阅读材料。
-- 不在正式学习时间生成或调试音频。
-- 若音频尚未准备好，进行词块主动回忆后结束，并把音频准备列为课外维护任务。
+- 不在正式学习时间生成、迁移、审核或调试音频。
+- 音频已就绪，不因资产维护缩短本次学习。
 
 ## 当前最重要观察
 
