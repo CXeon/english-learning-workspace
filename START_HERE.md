@@ -40,7 +40,7 @@
 
 ## 结束协议
 
-课程完成后，按 `agent-session-protocol.md` 更新课程结果、当前状态和复习队列；运行 `python3 tools/check-public-repo.py`；校验通过后创建提交。学习者已持续授权：通过公开审核的课程原创文档与 AI 合成音频默认推送到远程仓库；其他内容没有当次明确授权不得 `git push`。
+课程完成后，按 `agent-session-protocol.md` 更新课程结果、当前状态和复习队列；运行 `python3 tools/check-public-repo.py`；校验通过后创建提交。学习者已持续授权：通过公开审核的历史与未来课程文件，包括原创文档、AI 合成音频及明确标注的技术归档，默认提交到本地仓库并推送到远程仓库；其他内容没有当次明确授权不得 `git push`。
 
 ## 公开安全
 
