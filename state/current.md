@@ -1,13 +1,13 @@
 ---
-updated: 2026-08-30
+updated: 2026-09-03
 phase: phase-2
 lesson_status: completed
 next_session_mode: prepare
 lesson_path: null
-next_lesson_type: reading
+next_lesson_type: writing
 target_minutes: 25
 audio_status: not_required
-material_brief: "准备一节 25 分钟非音频阅读课。开头按 review-queue 主动回忆当日到期词块；随后阅读一篇 280–340 词的公开原创文章，主题为在多任务工作中保护一段专注时间。完成计时阅读、一句主旨、两道理解题和一句个人输出；引入 3–5 个高价值词块，并继续巩固 return to、another + 单数名词和 record what + 从句。"
+material_brief: "准备一节 25 分钟非音频写作课。开头按 review-queue 主动回忆当日到期词块；随后完成一篇 80–110 词的公开原创英文短文，主题为如何在繁忙的一天保护专注时间并处理一次打断。提供简短内容支架，完成初稿与一次聚焦内容、一次聚焦语言的修订；继续巩固 protect a block of focused time、decide what can wait、return to the original task，以及 do not need to complete the task at once。"
 ---
 
 # 当前学习状态
@@ -23,14 +23,14 @@ material_brief: "准备一节 25 分钟非音频阅读课。开头按 review-que
 
 ## 下一节课的唯一第一步
 
-当前模式为 `prepare`。按 `material_brief` 创建新的公开原创阅读课程文件并将状态切换为 `resume`；开课校验后，先复习 `review-queue` 中当日到期词块。
+当前模式为 `prepare`。准备一节完整非音频写作课；开课校验后，先复习 `review-queue` 中当日到期词块。
 
 ## 本次边界
 
-- 下一节为完整非音频阅读课，不混入听力或音频维护。
-- 复习当日到期词块后完成阅读、理解和个人输出，不把复习单独做成缩短课。
+- 下一节为完整非音频写作课，不混入听力或音频维护。
+- 复习当日到期词块后完成构思、初稿和两轮修订，不把复习单独做成缩短课。
 - 课程文件必须可公开，个人输出不记录个人或公司敏感信息。
 
 ## 当前最重要观察
 
-已能在支架下完成 96 词、内容与顺序完整的英文短文，并在文中复用多个已学词块。需继续巩固 `return to + 任务/工作`、`another + 单数名词` 和 `record what + 从句`。
+已能在支架下完成 96 词、内容与顺序完整的英文短文，并在文中复用多个已学词块；本课也能抓住阅读主旨并理解“简短笔记 → 回到原任务”的逻辑。需继续巩固 `return to + 任务/工作`、`another + 单数名词` 和 `record what + 从句`。
