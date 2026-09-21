@@ -23,10 +23,10 @@
 | give something uninterrupted attention | 2026-09-02 | 2026-09-03（第 1 天） |
 | decide what can wait | 2026-09-02 / 2026-09-19 | 2026-09-22（第 3 天） |
 | return to the original task | 2026-08-29 / 2026-09-19 | 2026-09-22（第 3 天） |
-| make up for lost time | 2026-09-19 | 2026-09-20（第 1 天） |
-| pick up where you left off | 2026-09-19 | 2026-09-20（第 1 天） |
-| a small daily minimum | 2026-09-19 | 2026-09-20（第 1 天） |
-| rebuild the rhythm | 2026-09-19 | 2026-09-20（第 1 天） |
-| protect the progress you have already made | 2026-09-19 | 2026-09-20（第 1 天） |
+| make up for lost time | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
+| pick up where you left off | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
+| a small daily minimum | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
+| rebuild the rhythm | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
+| protect the progress you have already made | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
 | write down the first task for tomorrow | 2026-08-20 | 下次综合复习 |
 | draw a clear line between work and rest | 2026-08-20 | 下次综合复习 |
