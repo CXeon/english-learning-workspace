@@ -28,10 +28,15 @@
 | a small daily minimum | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
 | rebuild the rhythm | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
 | protect the progress you have already made | 2026-09-19 / 2026-09-22 | 2026-09-26（第 7 天） |
-| fall behind on something | 2026-09-23 / 2026-10-01 | 2026-10-02（重新激活后第 1 天） |
-| catch up on something | 2026-09-23 / 2026-10-01 | 2026-10-02（重新激活后第 1 天） |
-| keep up with the current plan | 2026-09-23 / 2026-10-01 | 2026-10-02（重新激活后第 1 天） |
-| a lighter version of | 2026-09-23 / 2026-10-01 | 2026-10-02（重新激活后第 1 天） |
-| let go of the idea that | 2026-09-23 / 2026-10-01 | 2026-10-02（重新激活后第 1 天） |
+| fall behind on something | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天） |
+| catch up on something | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天） |
+| keep up with the current plan | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天） |
+| a lighter version of | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天） |
+| let go of the idea that | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天，连续两课未完整回忆，优先） |
+| a fixed starting time | 2026-10-02 | 2026-10-03（第 1 天） |
+| non-negotiable | 2026-10-02 | 2026-10-03（第 1 天） |
+| match the intensity to your energy | 2026-10-02 | 2026-10-03（第 1 天） |
+| scale something down | 2026-10-02 | 2026-10-03（第 1 天） |
+| show up anyway | 2026-10-02 | 2026-10-03（第 1 天） |
 | write down the first task for tomorrow | 2026-08-20 | 下次综合复习 |
 | draw a clear line between work and rest | 2026-08-20 | 下次综合复习 |

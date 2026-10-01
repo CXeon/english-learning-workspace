@@ -1,19 +1,20 @@
 ---
-updated: 2026-10-01
+updated: 2026-10-02
 phase: phase-2
 lesson_status: completed
 next_session_mode: prepare
 lesson_path: null
-next_lesson_type: reading
+next_lesson_type: writing
 target_minutes: 25
 audio_status: not_required
-material_brief: "准备一节 25 分钟非音频阅读课。开头主动回忆 2026-10-02 到期的五个词块：fall behind on something / catch up on something / keep up with the current plan / a lighter version of / let go of the idea that。随后使用一篇 250–350 词的原创适级文章，主题为根据当天精力调整学习强度，但保留稳定的开始时间和核心任务。完成计时阅读、主旨概括、两道理解题和一句迁移表达；只引入 3–5 个高价值词块，不含个人或公司敏感信息。"
+material_brief: "准备一节 25 分钟非音频写作课。开头主动回忆 2026-10-03 到期的五个新词块：a fixed starting time / non-negotiable / match the intensity to your energy / scale something down / show up anyway，并重点复查 let go of the idea that（连续两课未完整回忆）。随后以《Keep the Start, Adjust the Load》为基础写一篇 80–110 词短文，主题为按当天精力调整学习强度、但保留固定开始时间与核心任务，自然使用至少三个本课词块；完成内容构思、英文提纲、初稿与两轮修订，不写入个人或公司敏感信息。"
 ---
 
 # 当前学习状态
 
 ## 已完成
 
+- 已跨日完成《Keep the Start, Adjust the Load》的五个到期词块回忆、计时阅读（约 292 词）、八个生词讲解、主旨概括、两道理解题与迁移表达，新学五个"固定与可变"词块，计入 2026-10-01 学习进度。
 - 已跨日完成《Keep Up, Don't Catch Up: Writing》的五个到期词块回忆、内容构思、英文提纲、初稿与两轮修订，形成 85 词终稿。
 - 已完成《Keep Up, Don't Catch Up》的到期词块回忆、计时阅读（约 69 词/分钟）、主旨概括、两道理解题与迁移表达，新学五个"跟上/补上"词块。按学习者要求，本课计入 2026-09-22（周二）学习进度。
 - 已完成《Finding the Rhythm Again》的到期词块回忆、计时阅读、主旨概括、两道理解题与迁移表达，新学五个重建节奏词块。
@@ -27,14 +28,14 @@ material_brief: "准备一节 25 分钟非音频阅读课。开头主动回忆 2
 
 ## 下一节课的唯一第一步
 
-当前模式为 `prepare`。准备一节完整非音频阅读课；开课校验后，先复习 `review-queue` 中 2026-10-02 到期的五个词块。
+当前模式为 `prepare`。准备一节完整非音频写作课；开课校验后，先主动回忆 2026-10-03 到期的五个新词块，并重点复查 `let go of the idea that`。
 
 ## 本次边界
 
-- 下一节为完整非音频阅读课，不混入听力或音频维护。
-- 复习到期词块后完成计时阅读、主旨概括、理解题和迁移表达，不把复习单独做成缩短课。
+- 下一节为完整非音频写作课，不混入听力或音频维护。
+- 复习到期词块后完成内容构思、英文提纲、初稿与两轮修订，不把复习单独做成缩短课。
 - 课程文件必须可公开，个人输出不记录个人或公司敏感信息。
 
 ## 当前最重要观察
 
-五个“跟上/补上”词块的首次主动回忆较弱，但经提示后能完整补全，并在短文中自然使用其中四个。下次需优先复习 `let go of the idea that`，并继续巩固 `after + -ing` 与主格/所有格代词。学习者已明确区分主动停下未完工作（`stop working for the day`）与完成工作（`finish work`）；结尾句偏差是键入错误，不视为知识缺口。
+复习词块 4/5 一次通过；`let go of the idea that` 连续两课（2026-09-30 写作课、本课）未完整回忆，误作 give up the idea about，为最高优先复习项，同时巩固 that + 完整句子结构。理解题第 2 题用核心任务的句子回答固定开始时间的作用，关键句定位需练习。新形式点：choice/choose 词性区分。
