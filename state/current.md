@@ -1,19 +1,20 @@
 ---
-updated: 2026-10-02
+updated: 2026-10-03
 phase: phase-2
 lesson_status: completed
 next_session_mode: prepare
 lesson_path: null
-next_lesson_type: writing
-target_minutes: 25
+next_lesson_type: reading
+target_minutes: 45
 audio_status: not_required
-material_brief: "准备一节 25 分钟非音频写作课。开头主动回忆 2026-10-03 到期的五个新词块：a fixed starting time / non-negotiable / match the intensity to your energy / scale something down / show up anyway，并重点复查 let go of the idea that（连续两课未完整回忆）。随后以《Keep the Start, Adjust the Load》为基础写一篇 80–110 词短文，主题为按当天精力调整学习强度、但保留固定开始时间与核心任务，自然使用至少三个本课词块；完成内容构思、英文提纲、初稿与两轮修订，不写入个人或公司敏感信息。"
+material_brief: "准备一节 45 分钟周末非音频阅读课，选用与近期‘学习连续性’明显不同的新主题：如何在日常协作中提出清晰的追问。准备约 350–450 词原创适级文章，完成计时阅读、主旨概括、关键细节定位、两道理解题、3–5 个高价值词块和一段简短迁移表达。开头按实际开课日期从到期队列中选最多五个词块主动回忆，优先 let go of the idea that 和本课首次回忆不完整的词块。使用通用或虚构场景，不写入个人或公司敏感信息。"
 ---
 
 # 当前学习状态
 
 ## 已完成
 
+- 已跨日完成《Keep the Start, Adjust the Load: Writing》的词块回忆、内容构思、英文提纲、初稿与两轮修订，形成 86 词终稿。
 - 已跨日完成《Keep the Start, Adjust the Load》的五个到期词块回忆、计时阅读（约 292 词）、八个生词讲解、主旨概括、两道理解题与迁移表达，新学五个"固定与可变"词块，计入 2026-10-01 学习进度。
 - 已跨日完成《Keep Up, Don't Catch Up: Writing》的五个到期词块回忆、内容构思、英文提纲、初稿与两轮修订，形成 85 词终稿。
 - 已完成《Keep Up, Don't Catch Up》的到期词块回忆、计时阅读（约 69 词/分钟）、主旨概括、两道理解题与迁移表达，新学五个"跟上/补上"词块。按学习者要求，本课计入 2026-09-22（周二）学习进度。
@@ -28,14 +29,14 @@ material_brief: "准备一节 25 分钟非音频写作课。开头主动回忆 2
 
 ## 下一节课的唯一第一步
 
-当前模式为 `prepare`。准备一节完整非音频写作课；开课校验后，先主动回忆 2026-10-03 到期的五个新词块，并重点复查 `let go of the idea that`。
+当前模式为 `prepare`。准备一节新主题的完整非音频阅读课；开课校验后，先从当日到期队列中选最多五个词块主动回忆。
 
 ## 本次边界
 
-- 下一节为完整非音频写作课，不混入听力或音频维护。
-- 复习到期词块后完成内容构思、英文提纲、初稿与两轮修订，不把复习单独做成缩短课。
+- 下一节为完整非音频阅读课，不混入听力或音频维护。
+- 下一篇材料改用“清晰追问”新主题，避免继续重复“保持学习连续性”。
 - 课程文件必须可公开，个人输出不记录个人或公司敏感信息。
 
 ## 当前最重要观察
 
-复习词块 4/5 一次通过；`let go of the idea that` 连续两课（2026-09-30 写作课、本课）未完整回忆，误作 give up the idea about，为最高优先复习项，同时巩固 that + 完整句子结构。理解题第 2 题用核心任务的句子回答固定开始时间的作用，关键句定位需练习。新形式点：choice/choose 词性区分。
+五个新词块均能用于终稿，但四个在首次主动回忆时不完整，输入转为稳定提取仍需间隔复习。`let go of the idea that` 经提示已能补全，但尚未主动用于写作，仍是最高优先项。本课内容迁移有效，但与近期课程主题重叠较高；下一课应转入新主题。
