@@ -38,5 +38,10 @@
 | match the intensity to your energy | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
 | scale something down | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
 | show up anyway | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
+| a clear follow-up question | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
+| narrow the question down | 2026-10-03 | 2026-10-07（补做第 3 天，优先） |
+| unlock the next step | 2026-10-03 | 2026-10-07（补做第 3 天，优先） |
+| check your understanding | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
+| send the work in the wrong direction | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
 | write down the first task for tomorrow | 2026-08-20 | 下次综合复习 |
 | draw a clear line between work and rest | 2026-08-20 | 下次综合复习 |
