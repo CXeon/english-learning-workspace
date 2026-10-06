@@ -32,15 +32,15 @@
 | catch up on something | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天） |
 | keep up with the current plan | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天） |
 | a lighter version of | 2026-09-23 / 2026-10-02 | 2026-10-05（第 3 天） |
-| let go of the idea that | 2026-09-23 / 2026-10-03 | 2026-10-05（经提示补全，优先） |
+| let go of the idea that | 2026-09-23 / 2026-10-06 | 2026-10-09（第 3 天，仍经提示，优先） |
 | a fixed starting time | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
-| non-negotiable | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
-| match the intensity to your energy | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
+| non-negotiable | 2026-10-02 / 2026-10-06 | 2026-10-09（第 7 天，词义需精确） |
+| match the intensity to your energy | 2026-10-02 / 2026-10-06 | 2026-10-09（第 7 天） |
 | scale something down | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
 | show up anyway | 2026-10-02 / 2026-10-03 | 2026-10-05（第 3 天） |
 | a clear follow-up question | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
-| narrow the question down | 2026-10-03 | 2026-10-07（补做第 3 天，优先） |
-| unlock the next step | 2026-10-03 | 2026-10-07（补做第 3 天，优先） |
+| narrow the question down | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
+| unlock the next step | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
 | check your understanding | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
 | send the work in the wrong direction | 2026-10-03 / 2026-10-06 | 2026-10-10（第 7 天） |
 | write down the first task for tomorrow | 2026-08-20 | 下次综合复习 |
