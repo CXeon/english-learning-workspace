@@ -1,19 +1,20 @@
 ---
-updated: 2026-10-06
+updated: 2026-10-18
 phase: phase-3
 lesson_status: completed
 next_session_mode: prepare
 lesson_path: null
-next_lesson_type: reading
+next_lesson_type: writing
 target_minutes: 25
 audio_status: not_required
-material_brief: "准备一节 25 分钟工作日非音频阅读课，延续协作沟通主题：任务进行中如何主动同步进展、避免坏消息迟到（如 close the loop / keep someone informed / flag a delay early）。开课后先主动回忆最多五个到期词块，优先 let go of the idea that（仍需提示）与 non-negotiable（词义需精确）；再用原创 250–400 词短文完成计时阅读（开始前重申计时是测量、不是截止线）、一句主旨概括、两道理解题、3–5 个新词块学习与简短迁移表达，不含个人或公司敏感信息。"
+material_brief: "准备一节 25 分钟工作日非音频写作课，基于《Informed, Not Surprised》（lessons/2026/2026-10-18-informed-not-surprised/lesson.md）：开课后先主动回忆最多五个到期词块，优先 non-negotiable（词义需精确）、narrow the question down（词义需精确）与 let go of the idea that（验证 that 从句语法）；再完成内容构思、英文提纲、初稿与两轮修订，形成约 80–100 词终稿，尽量使用 close the loop、flag a delay early、keep someone informed、a quick status update、no surprises 中的至少两个，场景通用或虚构，不含个人或公司敏感信息。"
 ---
 
 # 当前学习状态
 
 ## 已完成
 
+- 已完成《Informed, Not Surprised》的五个到期词块回忆、计时阅读（342 词/8 分钟）、六个生词讲解、主旨概括、两道理解题、五个新词块学习与迁移表达；`let go of the idea that` 首次无提示补全整体框架，`close the loop`/`open loops` 理解完全正确，新学 keep someone informed、a quick status update、flag a delay early、close the loop、no surprises。
 - 已完成《Before You Assume, Ask: Writing》的五个到期词块回忆、内容构思、英文提纲、初稿与两轮修订，形成 100 词终稿；`narrow the question down` 和 `unlock the next step` 首次主动回忆即完整正确，并主动用于终稿。
 - 已跨日完成《Before You Assume, Ask》的词块回忆、计时阅读、词汇理解、主旨概括、关键细节定位、两道理解题、四句复述和四句迁移表达；能在提示后正确使用 `choices`、`an unclear request`、`check our understanding` 和 `prevent ... from ...`。
 - 已跨日完成《Keep the Start, Adjust the Load: Writing》的词块回忆、内容构思、英文提纲、初稿与两轮修订，形成 86 词终稿。
@@ -31,13 +32,13 @@ material_brief: "准备一节 25 分钟工作日非音频阅读课，延续协�
 
 ## 下一节课的唯一第一步
 
-当前模式为 `prepare`。准备一节 25 分钟非音频阅读课；开课校验后，先主动回忆最多五个到期词块，优先 `let go of the idea that` 和 `non-negotiable`。
+当前模式为 `prepare`。准备一节 25 分钟非音频写作课，基于《Informed, Not Surprised》；开课校验后，先回忆 `non-negotiable` 与 `narrow the question down` 的精确词义，再验证 `let go of the idea that` 的从句语法。
 
 ## 本次边界
 
-- 下一节为工作日非音频阅读课，不混入听力或音频维护。
-- 延续协作沟通主题，从独立写作回到输入理解；使用原创材料，不含个人或公司敏感信息。
+- 下一节为工作日非音频写作课，不混入听力或音频维护。
+- 延续协作沟通主题，从输入理解回到独立写作；场景通用或虚构，不含个人或公司敏感信息。
 
 ## 当前最重要观察
 
-`narrow the question down` 与 `unlock the next step` 已能首次回忆即完整输出，转入第 7 天间隔。`let go of the idea that` 连续多课仍需提示才能补全 that 从句，`non-negotiable` 词义仍不够精确，二者列为下次优先。上节阅读课出现的计时速度压力尚未在实际阅读中重新验证，下节阅读课计时开始前需重申“计时是测量，不是截止线”。
+高频形式错误集中在两类：动词前多加 is（is exists / is make）、动作作主语缺 -ing（Work overtime → Working overtime）；理解与主旨概括表现稳定。`non-negotiable` 与 `narrow the question down` 的词义精度、`let go of the idea that` 的从句语法列为下次优先。阅读速度按"计时是测量，不是截止线"原则仅作记录，本次约 43 词/分钟。
